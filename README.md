@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dibu2002
+- 👋 Hi, I’m Divya
 - 👀 I’m interested in web development
 - 🌱 I’m currently pursuing my BTech degree from Indian Instiute of Technology Jammu.
 - 💞️ I’m looking to collaborate on ...
