@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divya
 - 👀 I’m interested in web development
-- 🌱 I’m currently pursuing my BTech degree from Indian Instiute of Technology Jammu.
+- 🌱 I’m currently pursuing my BTech degree in computer science from Indian Instiute of Technology Jammu.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
